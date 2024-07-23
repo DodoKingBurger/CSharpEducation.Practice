@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Task.CSharpBase"
+    "\\Task.CSharpBase",
+    "\\Task.CSharpBase\\bin",
+    "\\Task.CSharpBase\\bin\\CheckIn"
   ],
-  "SelectedNode": "\\Task.CSharpBase\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
