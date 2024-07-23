@@ -1,0 +1,6 @@
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\CheckIn\Task.CSharpBase.exe.config
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Task.CSharpBase\bin\CheckIn\Task.CSharpBase.exe
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\Task.CSharpBase.csproj.AssemblyReference.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\Task.CSharpBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\Task.CSharpBase.csproj.CoreCompileInputs.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Task.CSharpBase\obj\CheckIn\Task.CSharpBase.exe

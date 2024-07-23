@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{02994520-4150-4CC6-BEEA-8189F46D4E06}</ProjectGuid>
+    <ProjectGuid>{16110A3A-4BA8-4AA4-9D90-D491456A6131}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Task.CSharpBase</RootNamespace>
-    <AssemblyName>Task.CSharpBase</AssemblyName>
+    <RootNamespace>Task1Bв</RootNamespace>
+    <AssemblyName>Task1Bв</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -27,7 +27,7 @@
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>bin\Release\</OutputPath>
+    <OutputPath>bin\My_Debug\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
