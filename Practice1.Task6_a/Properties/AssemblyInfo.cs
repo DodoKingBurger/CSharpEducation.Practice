@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
-[assembly: AssemblyTitle("Task.CSharpBaseE")]
+[assembly: AssemblyTitle("Practice1.Task6_a")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Task.CSharpBaseE")]
+[assembly: AssemblyProduct("Practice1.Task6_a")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("6d84859f-ebbe-4366-99d8-3e0f2b97a4cd")]
+[assembly: Guid("c47fc21b-5b77-498b-aa91-7c410c1d5e13")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //
