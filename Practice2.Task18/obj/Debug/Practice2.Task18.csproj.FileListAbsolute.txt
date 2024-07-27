@@ -1,0 +1,8 @@
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\obj\Debug\Practice2.Task18.csproj.AssemblyReference.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\obj\Debug\Practice2.Task18.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\obj\Debug\Practice2.Task18.csproj.CoreCompileInputs.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\bin\Debug\Practice2.Task18.exe.config
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\bin\Debug\Practice2.Task18.exe
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\bin\Debug\Practice2.Task18.pdb
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\obj\Debug\Practice2.Task18.exe
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task18\obj\Debug\Practice2.Task18.pdb

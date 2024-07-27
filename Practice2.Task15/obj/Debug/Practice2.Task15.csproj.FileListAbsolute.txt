@@ -1,0 +1,8 @@
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\bin\Debug\Practice2.Task15.exe.config
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\bin\Debug\Practice2.Task15.exe
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\bin\Debug\Practice2.Task15.pdb
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\obj\Debug\Practice2.Task15.csproj.AssemblyReference.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\obj\Debug\Practice2.Task15.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\obj\Debug\Practice2.Task15.csproj.CoreCompileInputs.cache
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\obj\Debug\Practice2.Task15.exe
+C:\Users\sarki\source\repos\CSharpEducation.Practice\Practice2.Task15\obj\Debug\Practice2.Task15.pdb
