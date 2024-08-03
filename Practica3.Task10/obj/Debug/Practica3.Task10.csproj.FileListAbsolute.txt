@@ -1,0 +1,8 @@
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\bin\Debug\Practica3.Task10.exe.config
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\bin\Debug\Practica3.Task10.exe
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\bin\Debug\Practica3.Task10.pdb
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\obj\Debug\Practica3.Task10.csproj.AssemblyReference.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\obj\Debug\Practica3.Task10.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\obj\Debug\Practica3.Task10.csproj.CoreCompileInputs.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\obj\Debug\Practica3.Task10.exe
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practica3.Task10\obj\Debug\Practica3.Task10.pdb
