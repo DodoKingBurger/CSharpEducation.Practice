@@ -1,0 +1,11 @@
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\bin\Debug\Practics.3.2.Task2.exe.config
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\bin\Debug\Practics.3.2.Task2.exe
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\bin\Debug\Practics.3.2.Task2.pdb
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\bin\Debug\Practics.3.2.Task1.dll
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\bin\Debug\Practics.3.2.Task1.pdb
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\obj\Debug\Practics.3.2.Task2.csproj.AssemblyReference.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\obj\Debug\Practics.3.2.Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\obj\Debug\Practics.3.2.Task2.csproj.CoreCompileInputs.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\obj\Debug\Practics.3.2.Task2.csproj.CopyComplete
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\obj\Debug\Practics.3.2.Task2.exe
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics.3.2.Task2\obj\Debug\Practics.3.2.Task2.pdb
