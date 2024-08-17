@@ -1,0 +1,11 @@
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\bin\Debug\Practics5.Task12.exe.config
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\bin\Debug\Practics5.Task12.exe
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\bin\Debug\Practics5.Task12.pdb
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\obj\Debug\Practics5.Task1.csproj.AssemblyReference.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\obj\Debug\Practics5.Task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\obj\Debug\Practics5.Task1.csproj.CoreCompileInputs.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\obj\Debug\Practics5.Task12.exe
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\obj\Debug\Practics5.Task12.pdb
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\bin\Debug\Practics5.Task2Lib.dll
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\bin\Debug\Practics5.Task2Lib.pdb
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task12\obj\Debug\Practics5.Task1.csproj.CopyComplete

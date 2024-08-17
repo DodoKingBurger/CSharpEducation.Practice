@@ -1,0 +1,6 @@
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task2Lib\bin\Debug\Practics5.Task2Lib.dll
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task2Lib\bin\Debug\Practics5.Task2Lib.pdb
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task2Lib\obj\Debug\Practics5.Task2Lib.csproj.AssemblyReference.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task2Lib\obj\Debug\Practics5.Task2Lib.csproj.CoreCompileInputs.cache
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task2Lib\obj\Debug\Practics5.Task2Lib.dll
+C:\Users\sarki\Source\Repos\CSharpEducation.Practice\Practics5.Task2Lib\obj\Debug\Practics5.Task2Lib.pdb
