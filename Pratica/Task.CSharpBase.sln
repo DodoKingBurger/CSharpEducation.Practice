@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practics5.Task1", "..\Pract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practics5.Task2Lib", "..\Practics5.Task2Lib\Practics5.Task2Lib.csproj", "{4123202C-14AE-4B11-B2FC-2F9F13518C89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practics5.Task3", "..\Practics5.Task3\Practics5.Task3.csproj", "{5BE3947C-2862-405D-BCE6-516E94D2F224}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +309,10 @@ Global
 		{4123202C-14AE-4B11-B2FC-2F9F13518C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4123202C-14AE-4B11-B2FC-2F9F13518C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4123202C-14AE-4B11-B2FC-2F9F13518C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE3947C-2862-405D-BCE6-516E94D2F224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE3947C-2862-405D-BCE6-516E94D2F224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE3947C-2862-405D-BCE6-516E94D2F224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE3947C-2862-405D-BCE6-516E94D2F224}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -360,6 +366,7 @@ Global
 		{2A79A44A-BF63-4E91-955F-2E057AAA64B4} = {97729CEA-2BA6-4ECB-AE67-2BE392E691BF}
 		{FA31647F-2398-4D1C-A796-6D2EF55FF014} = {AD6F9724-33FF-4359-B838-EB64964B598F}
 		{4123202C-14AE-4B11-B2FC-2F9F13518C89} = {AD6F9724-33FF-4359-B838-EB64964B598F}
+		{5BE3947C-2862-405D-BCE6-516E94D2F224} = {AD6F9724-33FF-4359-B838-EB64964B598F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EF2F8CBB-6DFF-41B1-B3CC-99C9C41D491E}
