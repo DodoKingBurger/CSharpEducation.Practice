@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA3B2477-02B5-4CB7-9F22-19DD14649AD9}</ProjectGuid>
+    <ProjectGuid>{2A797134-4103-4AEB-A581-64FECF7A7CE2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Practics7.Task4</RootNamespace>
-    <AssemblyName>Practics7.Task4</AssemblyName>
+    <RootNamespace>Practics7.Task6</RootNamespace>
+    <AssemblyName>Practics7.Task6</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GetEvenNumbers.cs" />
-    <Compile Include="MyDictionary.cs" />
-    <Compile Include="MyList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

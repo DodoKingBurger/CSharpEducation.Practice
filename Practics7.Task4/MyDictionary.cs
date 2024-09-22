@@ -18,7 +18,7 @@ namespace Practics7.Task4
       {
         if (position == -1 || position >= Items.Count)
           throw new ArgumentException();
-        return Items;
+        return Items.ElementAt(position);
       }
     } 
 
